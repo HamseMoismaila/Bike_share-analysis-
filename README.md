@@ -1,8 +1,13 @@
 ## Bike_share-analysis-
 
+## DATA OVERVIEW 
+
+BIKE SHARE ANALYSIS file contain all SQL queries that I use to Clean and  EDA
+
+READMe file contain all way process to answer this business case 
 
 
-
+### Objective 
 
 In project I was assuming junior Data analysts in Bike share company . The director of marketing believes the company’s future success depends on maximizing the number of annual membership.
 
@@ -20,3 +25,5 @@ I started with most important part of this Job which To understand business Task
 Then, I heard to location of data which was company internal data to download, before that i had some questions about organization of data,is it reliable for analysis and credibility of this data??
 
 I started to download the Dataset to start the Process
+
+
