@@ -6,13 +6,13 @@
 
 In project I was assuming junior Data analysts in Bike share company . The director of marketing believes the company’s future success depends on maximizing the number of annual membership.
 
-For main Business goal was increase number subscribers . So, there was three main questions.
+For main Business goal #was increase number subscribers . So, there was three main questions.
 
-How do annual members and casual riders use Cyclistic bikes differently?
+1.How do annual members and casual riders use Cyclistic bikes differently?
 
-Why would casual riders buy Cyclistic annual memberships?
+2.Why would casual riders buy Cyclistic annual memberships?
 
-How can Cyclitic use digital media to influence casual riders to become members?
+3.How can Cyclitic use digital media to influence casual riders to become members?
 
 Director has assigned to me the first question to answer: How do annual members and casual riders use Cyclistic bikes differently?
 
